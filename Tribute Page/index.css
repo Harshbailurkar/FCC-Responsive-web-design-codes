@@ -1,0 +1,25 @@
+* {
+  padding-top: 15px;
+}
+#main {
+  display: grid;
+  place-content: center;
+  background-color: #f4f4f4;
+}
+#image-div {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#title {
+  place-self: center;
+}
+#img-div {
+  background-color: F5F5F5;
+}
+#tribute-info {
+  place-self: center;
+}
